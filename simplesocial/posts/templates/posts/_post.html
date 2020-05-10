@@ -1,0 +1,32 @@
+<!-- Use this _post.html file to inject it into other post.html files.
+    If some file is becoming too big, complicated and heavy we'll need to break it and need to inject it,
+    further details in this file as we move along the video -->
+
+<div class="post media">
+    <h3>{{ post.message_html|safe }}</h3>
+    <div class="media-body">
+        <h5 class="media-heading">
+            <span class="username">
+                <a href="{% url 'posts:for_user' username=post.user.username %}">@{{ post.user.username }}</a>
+            </span>
+            <time class="time">
+                <!-- .created_at is a time property to automatically log current time and record it -->
+                <a href="{% url 'posts:single' username=post.user.username pk=post.pk %}">{{ post.created_at }}</a>
+            </time>
+			{% if post.group %}
+			    <span class="group-name">in <a href="#">{{ post.group.name }}</a></span>
+			{% endif %}
+		</h5>
+
+        <div class="media-footer">
+            {% if user.is_authenticated and post.user == user and not hide_delete %}
+                <a href="{% url 'posts:delete' pk=post.pk %}" title="delete" class="btn btn-simple">
+                    <!-- aria-hidden is used by the programmers to indicate browsers that this text is hidden and need to
+                        read it that load; not necessary for the people with seeing/viewing disablities -->
+                    <span class="glyphicon glyphicon-remove text-danger" aria-hidden="true"></span>
+                    <span class="text-danger icon-label"></span>
+                </a>
+            {% endif %}
+        </div>
+    </div>
+</div>

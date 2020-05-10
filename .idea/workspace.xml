@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cb8519d-2468-4ff6-8455-2709e6db4a73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDw3YcfpvBp3JC2k7VvtpnnLcb" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/simplesocial/static/simplesocial/js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/simplesocial/static/simplesocial/js" />
+      <recent name="$PROJECT_DIR$/simplesocial/static/simplesocial/css" />
+      <recent name="$PROJECT_DIR$/simplesocial/static/css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simple_social_clone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simplesocial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simplesocial/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cb8519d-2468-4ff6-8455-2709e6db4a73" name="Default Changelist" comment="" />
+      <created>1586283273908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586283273908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586284667183">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1586284667183" />
+    <state x="408" y="181" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587207015802">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="408" y="181" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.828@0.23.1440.828" timestamp="1587207015802" />
+    <state width="1419" height="269" key="GridCell.Tab.0.bottom" timestamp="1587592156841">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="268" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1587248669307" />
+    <state width="1419" height="316" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1587210994301" />
+    <state width="1419" height="268" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1587225271013" />
+    <state width="1419" height="269" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1587592156841" />
+    <state width="1419" height="269" key="GridCell.Tab.0.center" timestamp="1587592156840">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="268" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1587248669306" />
+    <state width="1419" height="316" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1587210994300" />
+    <state width="1419" height="268" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1587225271013" />
+    <state width="1419" height="269" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1587592156840" />
+    <state width="1419" height="269" key="GridCell.Tab.0.left" timestamp="1587592156840">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="268" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1587248669305" />
+    <state width="1419" height="316" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1587210994299" />
+    <state width="1419" height="268" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1587225271012" />
+    <state width="1419" height="269" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1587592156840" />
+    <state width="1419" height="269" key="GridCell.Tab.0.right" timestamp="1587592156841">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="268" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1587248669306" />
+    <state width="1419" height="316" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1587210994300" />
+    <state width="1419" height="268" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1587225271013" />
+    <state width="1419" height="269" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1587592156841" />
+    <state x="482" y="77" key="refactoring.ChangeSignatureDialog" timestamp="1586503607015">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="482" y="77" key="refactoring.ChangeSignatureDialog/0.23.1440.828@0.23.1440.828" timestamp="1586503607015" />
+  </component>
+</project>

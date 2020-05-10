@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% load bootstrap3 %} <!-- use of pip install django-bootstrap3; helps to make our forms look nice -->
+{% block content %}
+
+    <div class="container">
+        <h1>Sign Up</h1>
+        <form method="POST">
+            {% csrf_token %}
+            {% bootstrap_form form %} <!-- showcasing form using bootstrap3 -->
+            <input type="submit" class="btn btn-default" value="Sign-up">
+        </form>
+    </div>
+
+{% endblock %}
